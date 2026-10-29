@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <description/>
+        <operation>read</operation>
+        <rca_type>real_rca</rca_type>
+        <source>3cd120e0291413107f44fb341f0c0bd9</source>
+        <source_scope display_value="Global">global</source_scope>
+        <source_table>sysauto_script</source_table>
+        <source_type>3</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-29 12:05:28</sys_created_on>
+        <sys_id>b15b6860295413107f44fb341f0c0beb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">3a82fbb98cc013107f44242bf0868c4c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">3a82fbb98cc013107f44242bf0868c4c</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_b15b6860295413107f44fb341f0c0beb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-29 12:05:28</sys_updated_on>
+        <target name="x_cdltd_loaner_r_0_loaner_request" target_table="sys_db_object">e7e77fb18c0413107f44242bf0868cd0</target>
+        <target_scope display_value="Loaner Request">3a82fbb98cc013107f44242bf0868c4c</target_scope>
+        <target_table>sys_db_object</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+</record_update>
